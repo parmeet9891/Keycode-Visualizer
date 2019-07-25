@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Keycode-Visualizer/static/css/main.523c36ed.chunk.css",
+    "main.js": "/Keycode-Visualizer/static/js/main.4df59722.chunk.js",
+    "main.js.map": "/Keycode-Visualizer/static/js/main.4df59722.chunk.js.map",
+    "runtime~main.js": "/Keycode-Visualizer/static/js/runtime~main.85be357d.js",
+    "runtime~main.js.map": "/Keycode-Visualizer/static/js/runtime~main.85be357d.js.map",
+    "static/js/2.4e81ba5b.chunk.js": "/Keycode-Visualizer/static/js/2.4e81ba5b.chunk.js",
+    "static/js/2.4e81ba5b.chunk.js.map": "/Keycode-Visualizer/static/js/2.4e81ba5b.chunk.js.map",
+    "index.html": "/Keycode-Visualizer/index.html",
+    "precache-manifest.d9276635ce2eea2634e020990818d5b3.js": "/Keycode-Visualizer/precache-manifest.d9276635ce2eea2634e020990818d5b3.js",
+    "service-worker.js": "/Keycode-Visualizer/service-worker.js",
+    "static/css/main.523c36ed.chunk.css.map": "/Keycode-Visualizer/static/css/main.523c36ed.chunk.css.map",
+    "static/media/logo.svg": "/Keycode-Visualizer/static/media/logo.5d5d9eef.svg"
+  }
+}
